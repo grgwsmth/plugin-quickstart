@@ -1,21 +1,18 @@
 # Figma Plugin Starter
 
-#### Full instructions at:
-
+#### Full instructions:
 https://www.figma.com/plugin-docs/plugin-quickstart-guide/
 
 #### Install Node & TypeScript (if you haven't already):
 
-Install Node.js
-
+Install Node.js:
 https://nodejs.org/en/download/
 
-Install TypeScript (globally)
+Install TypeScript (globally):
 
 `npm install -g typescript`
 
 More info on TypeScript:
-
 https://www.typescriptlang.org/
 
 #### Getting Started
