@@ -37,6 +37,6 @@ To compile TypeScript to JavaScript, and watch for changes while working:
 
 `npm run watch`
 
-If Figma (desktop app), import your plugin manifest.json file:
+In the Figma desktop app, import your plugin manifest.json file:
 
 ![Import your plugin using the manifest file](figma-plugin-manifest.png "Import Figma plugin from manifest")
