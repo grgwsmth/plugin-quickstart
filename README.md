@@ -6,6 +6,8 @@ https://www.figma.com/plugin-docs/plugin-quickstart-guide/
 
 If you're new to Figma plugins, it might be a good idea to use their Quickstart Guide, at the link above. If the plugin architecture is familiar to you, and you just want a faster setup, clone this repo and go!
 
+When you install & run this plugin, you'll get the basic "[orange boxes](https://developers.figma.com/docs/plugins/plugin-quickstart-guide/#run-the-sample-plugin)" modal that Figma uses as a starter example. Overwrite the code to get stared on your own custom plugin.
+
 ## Install Node & TypeScript (if you haven't already):
 
 Install Node.js: 
