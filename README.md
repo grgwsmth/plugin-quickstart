@@ -18,14 +18,19 @@ Install TypeScript (globally):
 
 ## Getting started 
 
-#### Install all dev dependencies, & create your package-lock.json:
+1. Clone this repo
+2. Change the plugin name in your manifest.json file
+3. Change the plugin name & description in your package.json file
+4. Install stuff 👇🏼
+
+Install all dev dependencies, & create your package-lock.json:
 
 `npm install` 
 
-#### Get the latest type definitions for the plugin API:
+Get the latest type definitions for the plugin API:
 
 `npm install --save-dev @figma/plugin-typings`
 
-#### Compile TypeScript to JavaScript, and watch for changes while working:
+To compile TypeScript to JavaScript, and watch for changes while working:
 
 `npm run watch`
