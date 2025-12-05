@@ -39,4 +39,4 @@ To compile TypeScript to JavaScript, and watch for changes while working:
 
 If Figma (desktop app), import your plugin manifest.json file:
 
-![Import plugin from manifest...](figma-plugin-from-manifest.png "Figma Plugin Manifest" | Width=660)
+<img src="figma-plugin-from-manifest.png" alt="Figma Plugin Manifest" style="width:100%; max-width:660px; height:auto;">
