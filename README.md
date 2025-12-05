@@ -31,6 +31,12 @@ Get the latest type definitions for the plugin API:
 
 `npm install --save-dev @figma/plugin-typings`
 
+## Working
+
 To compile TypeScript to JavaScript, and watch for changes while working:
 
 `npm run watch`
+
+If Figma (desktop app), import your plugin manifest.json file:
+
+![Import plugin from manifest...](figma-plugin-from-manifest.png "Figma Plugin Manifest" | Width=660)
