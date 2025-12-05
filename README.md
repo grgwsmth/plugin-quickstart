@@ -1,36 +1,31 @@
 # Figma Plugin Starter
 
-#### Full instructions:
+#### Full instructions: 
+
 https://www.figma.com/plugin-docs/plugin-quickstart-guide/
+
+If you're new to Figma plugins, it might be a good idea to use their Quickstart Guide, at the link above. If the plugin architecture is familiar to you, and you just want a faster setup, clone this repo and go!
 
 #### Install Node & TypeScript (if you haven't already):
 
-Install Node.js:
+Install Node.js: 
+
 https://nodejs.org/en/download/
 
 Install TypeScript (globally):
 
 `npm install -g typescript`
 
-More info on TypeScript:
-https://www.typescriptlang.org/
+#### Getting started 
 
-#### Getting Started
+**Install all dev dependencies, & create your package-lock.json:**
 
-In your plugin directory, run this command:
+`npm install` 
 
-`npm install`
-
-#### Figma Plugin API
-
-In your plugin directory, run this command to get the latest type definitions for the plugin API:
+**Get the latest type definitions for the plugin API:**
 
 `npm install --save-dev @figma/plugin-typings`
 
-#### Helpful Info
-
-Using TypeScript requires a compiler to convert TypeScript (code.ts) into JavaScript (code.js) for the browser to run.
-
-To compile TypeScript to JavaScript, and watch for changes while working, run this command:
+**Compile TypeScript to JavaScript, and watch for changes while working:**
 
 `npm run watch`
